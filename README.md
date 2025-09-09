@@ -15,6 +15,10 @@ I believe in continuous learning, collaboration, and delivering excellence in ev
 
 ## 🛠️ Skills & Tools
 
+**Cloud Providers:**  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azure&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat)
+
 **DevOps & Automation:**  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
